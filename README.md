@@ -25,7 +25,7 @@ If you have suggestions or improvements, feel free to open issues or submit pull
 Connect with Me
 For questions, collaborations, or discussions, feel free to reach out:
 
-Email: invaceni@gmail.com.com
+Email: invaceni@gmail.com
 LinkedIn: (https://www.linkedin.com/in/invaceni/)
 
 Happy coding!
